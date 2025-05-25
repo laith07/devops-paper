@@ -49,4 +49,7 @@ Die in diesem Paper entdeckte Erkenntnisse sind auf Organisationen verschiedener
 1. Einleitung
 2. Methodik  
 3. Ergebnisse
-4. Fazit  
+4. Fazit
+
+## 📄 Author 
+Laith Ata
