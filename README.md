@@ -1,4 +1,4 @@
-# DevOps-Paper: „Kernelemente einer erfolgreichen Kulturtransformation im Rahmen von DevOps]{Kernelemente einer erfolgreichen Kulturtransformation im Rahmen von DevOps bei großen Unternehmen“
+# DevOps-Paper: „Kernelemente einer erfolgreichen Kulturtransformation im Rahmen von DevOps bei großen Unternehmen“
 
 ## 📘 Übersciht
 
